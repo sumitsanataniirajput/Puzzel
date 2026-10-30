@@ -1,0 +1,13 @@
+{
+  "name": "neon-worm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NEON WORM — a fast, glowing worm-arena browser game with zero dependencies.",
+  "type": "module",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": ["game", "canvas", "arcade", "worms", "slither"],
+  "license": "MIT"
+}
