@@ -1,0 +1,12 @@
+{
+  "model_type": "gpt2",
+  "vocab_size": 30000,
+  "block_size": 128,
+  "embedding_dim": 256,
+  "num_layers": 4,
+  "num_heads": 4,
+  "learning_rate": 5e-4,
+  "batch_size": 4,
+  "epochs": 3,
+  "device": "auto"
+}
