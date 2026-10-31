@@ -33,3 +33,6 @@ models/configs/*
 # Logs
 *.log
 runs/
+
+# Smoke-test database artifacts
+models/*.db
